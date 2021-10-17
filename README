@@ -1,0 +1,3 @@
+custom slstatus used with dwm
+
+from the left: wifi packets sent per second, battery %, used ram, cpu %, volume %, day, date and time
